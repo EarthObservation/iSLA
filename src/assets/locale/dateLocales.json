@@ -1,0 +1,40 @@
+{
+    "days": [
+      "Ponedeljek",
+      "Torek",
+      "Sreda",
+      "Četrtek",
+      "Petek",
+      "Sobota",
+      "Nedelja"
+    ],
+    "daysShort": ["Pon", "Tor", "Sre", "Čet", "Pet", "Sob", "Ned"],
+    "months": [
+      "Januar",
+      "Februar",
+      "Marec",
+      "April",
+      "Maj",
+      "Junij",
+      "Julij",
+      "Avgust",
+      "September",
+      "Oktober",
+      "November",
+      "December"
+    ],
+    "monthsShort": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Aprl",
+      "Maj",
+      "Jun",
+      "Jul",
+      "Avg",
+      "Sep",
+      "Okt",
+      "Nov",
+      "Dec",
+    ]
+  }
