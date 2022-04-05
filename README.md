@@ -14,8 +14,8 @@ iSLA is web application for visualization of scientific findings on an interacti
 ## Contribute
 
 To contribute clone repository and install dependenciesa and run NPM:
-'''
+```
 git clone <repository link>
 npm install
 npm run dev  //server will start in port 8080 
-'''
+```
